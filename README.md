@@ -6,4 +6,4 @@ Libraries used :<br><ul>
 <li>Scikit-learn<br></ul>
 <br>
 Model uses logistic regression to train itself with 80% data to train rest to test<br>
-Data set used for testing is mail_data.csv
+Data set used for training is mail_data.csv
